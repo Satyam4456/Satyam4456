@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyam jha
-- 👀 I’m interested in Data analyst, Data Science.
+- 👀 I’m interested in Data analysis, Data Science.
 - 🌱 I’m currently learning Python and Machine learning for data science.
 - 💞️ I’m looking to collaborate on Data analysis and visualization
   and SQL database management and optimization projects
